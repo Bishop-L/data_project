@@ -1,0 +1,7 @@
+CREATE TABLE kits (
+	 id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	 kit_id VARCHAR(20) UNIQUE,
+	 created DATETIME,
+	 modified DATETIME
+ )
+ 
