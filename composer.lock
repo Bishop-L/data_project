@@ -2014,16 +2014,16 @@
         },
         {
             "name": "twbs/bootstrap-icons",
-            "version": "v1.11.0",
+            "version": "v1.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twbs/icons.git",
-                "reference": "26a4b76ce8e643993ca0529a4c51888df1bef7bd"
+                "reference": "108565f11f099f177b31929e3eafc2c8d497fcd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twbs/icons/zipball/26a4b76ce8e643993ca0529a4c51888df1bef7bd",
-                "reference": "26a4b76ce8e643993ca0529a4c51888df1bef7bd",
+                "url": "https://api.github.com/repos/twbs/icons/zipball/108565f11f099f177b31929e3eafc2c8d497fcd1",
+                "reference": "108565f11f099f177b31929e3eafc2c8d497fcd1",
                 "shasum": ""
             },
             "type": "library",
@@ -2047,9 +2047,9 @@
             ],
             "support": {
                 "issues": "https://github.com/twbs/icons/issues",
-                "source": "https://github.com/twbs/icons/tree/v1.11.0"
+                "source": "https://github.com/twbs/icons/tree/v1.11.2"
             },
-            "time": "2023-09-12T14:57:52+00:00"
+            "time": "2023-11-21T20:06:00+00:00"
         }
     ],
     "packages-dev": [
